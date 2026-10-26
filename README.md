@@ -15,6 +15,9 @@ npx serve .
 ```
 umbral/
 ├── index.html
+├── .nojekyll
+├── .gitignore
+├── DEPLOY-GITHUB-PAGES.md
 ├── BENCHMARK.md
 ├── README.md
 ├── robots.txt
